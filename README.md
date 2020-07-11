@@ -1,6 +1,6 @@
 # Deep Video Homography Estimation
 This repository is the implementation of our ICPR 2020 submission:
-Learning Knowledge-Rich Sequence-to-SequenceModel for Planar Homograph Estimation in AerialVideos
+Learning Knowledge-Rich Sequence-to-Sequence Model for Planar Homography Estimation in Aerial Videos
 
 ### <a name="dependency"></a> Dependency
 * Ubuntu ≥ 14.04
