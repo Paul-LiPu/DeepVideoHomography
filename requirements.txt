@@ -1,6 +1,6 @@
 matplotlib==3.0.3
 numpy==1.16.2
-opencv-contrib-python==3.4.2.17
+opencv-contrib-python==4.2.0.32
 opencv-python==3.4.2.17
 Pillow==5.4.1
 scipy==1.2.1
